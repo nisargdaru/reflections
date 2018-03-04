@@ -7,6 +7,9 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 - git diff --staged; command can be used to view the difference between the files in the staging area and the repository/recent commit, so that we can see what changes we have made in the file and commit accordingly.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-when I have to create multiple versions of my program; branches would help me in switching to the version that I require to work on.
+
 
 
 
