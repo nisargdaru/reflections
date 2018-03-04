@@ -4,4 +4,9 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -it's an intermediate between the working directory and repository, it allows to add files to it before actually committing it, so that you can commit only what is required and it inturns makes your committs more valuable.
 
+How can you use the staging area to make sure you have one commit per logical change?
+- git diff --staged; command can be used to view the difference between the files in the staging area and the repository/recent commit, so that we can see what changes we have made in the file and commit accordingly.
+
+
+
 
