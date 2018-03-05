@@ -17,5 +17,7 @@ What is the result of merging two branches together? Why do we represent it in t
 -when we merger two branches together it's like to seperate files merged in one; we represent it in the diagram because it's efficient in mapping the parent and the current commit of various branches.
 
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-pro's: It saves time and is hassle free
+-con's: It doesn't always understand what to merge 
 
