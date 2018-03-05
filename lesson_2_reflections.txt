@@ -13,6 +13,9 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 -it makes it easy to understand which commit goes where and who is the parent.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-when we merger two branches together it's like to seperate files merged in one; we represent it in the diagram because it's efficient in mapping the parent and the current commit of various branches.
+
 
 
 
