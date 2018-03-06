@@ -8,3 +8,7 @@ Describe the differences between forks, clones, and branches. When would you use
 -Clone copies entire repository on local machine from remote and vice-versa.
 -Fork, is a feature provided by github which allows to clone an existing repository on github servers.
 -Depends entirely on the work that I'll be doing.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-It keeps posted on what changes have been made to the files remotely.
+
